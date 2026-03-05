@@ -11,6 +11,30 @@
   <Folder Name="/Domain/Common/">
     <File Path="Notification.cs" />
   </Folder>
+  <Folder Name="/Domain/PropertyManagement/">
+    <File Path="Property.cs" />
+    <File Path="PropertyCategory.cs" />
+    <File Path="PropertyLocation.cs" />
+    <File Path="PropertyType.cs" />
+    <File Path="SafetyBox.cs" />
+    <File Path="SafetyBoxShelf.cs" />
+  </Folder>
+  <Folder Name="/Domain/Receiving/">
+    <File Path="InspectionLog.cs" />
+    <File Path="ReceivingNote.cs" />
+    <File Path="Supplier.cs" />
+  </Folder>
+  <Folder Name="/Domain/Requisition/">
+    <File Path="ServiceRequest.cs" />
+    <File Path="SR_Detail.cs" />
+    <File Path="StoreIssueVoucher.cs" />
+  </Folder>
+  <Folder Name="/Domain/Storage/">
+    <File Path="InventoryStock.cs" />
+    <File Path="ShelfLocation.cs" />
+    <File Path="StockLedger.cs" />
+    <File Path="Warehouse.cs" />
+  </Folder>
   <Folder Name="/Persistence/">
     <Project Path="ARMS.Infrastructure/ARMS.Infrastructure.csproj" />
   </Folder>
