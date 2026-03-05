@@ -8,6 +8,7 @@
   <Folder Name="/Domain/">
     <Project Path="ARMS.Domain/ARMS.Domain.csproj" />
   </Folder>
+<<<<<<< HEAD
   <Folder Name="/Domain/Common/">
     <File Path="Notification.cs" />
   </Folder>
@@ -35,6 +36,8 @@
     <File Path="StockLedger.cs" />
     <File Path="Warehouse.cs" />
   </Folder>
+=======
+>>>>>>> 84f8c308e4b5568b7c3db2bb6414faa0eac93ec0
   <Folder Name="/Persistence/">
     <Project Path="ARMS.Infrastructure/ARMS.Infrastructure.csproj" />
   </Folder>
