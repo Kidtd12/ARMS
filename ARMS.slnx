@@ -8,6 +8,9 @@
   <Folder Name="/Domain/">
     <Project Path="ARMS.Domain/ARMS.Domain.csproj" />
   </Folder>
+  <Folder Name="/Domain/Common/">
+    <File Path="Notification.cs" />
+  </Folder>
   <Folder Name="/Persistence/">
     <Project Path="ARMS.Infrastructure/ARMS.Infrastructure.csproj" />
   </Folder>
