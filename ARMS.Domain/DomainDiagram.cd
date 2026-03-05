@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domain.Catalog.Category" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAIAAAAAAAAAwAAA=</HashCode>
+      <FileName>Catalog\category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Catalog.ItemMaster" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAAAAAAgAAAABAQAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Catalog\ItemMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Common.AuditTrail" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAgQAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>Common\AuditTrail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Common.BaseEntity" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAACAABAQAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Common\BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Common.DocumentAttachment" Collapsed="true">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAABQAABAAAA=</HashCode>
+      <FileName>Common\DocumentAttachment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Common.Notification" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAgEAgAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Common\Notification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.PropertyManagement.Property" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIgAAAABAAAAAAAIAAAAQAAAEAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>PropertyManagement\Property.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.PropertyManagement.PropertyCategory" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PropertyManagement\PropertyCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.PropertyManagement.PropertyLocation" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>PropertyManagement\PropertyLocation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.PropertyManagement.PropertyType" Collapsed="true">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PropertyManagement\PropertyType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.PropertyManagement.SafetyBox" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>PropertyManagement\SafetyBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.PropertyManagement.SafetyBoxShelf" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>PropertyManagement\SafetyBoxShelf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Receiving.InspectionLog" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAJABAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Receiving\InspectionLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Receiving.ReceivingNote" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAABAACAAAAAAAAAAAAAAAAACAAAgAAA=</HashCode>
+      <FileName>Receiving\ReceivingNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Receiving.Supplier" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAIAAAAAAgAA=</HashCode>
+      <FileName>Receiving\Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Requisition.ServiceRequest" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgEAAAEAAABAAAAAAAAAAAAACAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Requisition\ServiceRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Requisition.SR_Detail" Collapsed="true">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAIIAAAAAAAgAAAAAAAAAAAAAAIAAAgAAAAAAA=</HashCode>
+      <FileName>Requisition\SR_Detail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Requisition.StoreIssueVoucher" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAIAAAAAEAAAAI=</HashCode>
+      <FileName>Requisition\StoreIssueVoucher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Storage.InventoryStock" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAIAAAgAAAAgAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Storage\InventoryStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Storage.ShelfLocation" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABABAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Storage\ShelfLocation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Storage.StockLedger" Collapsed="true">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQIAAAAAAAAgAAAAAAAAAAEAAEAAgAAAAAAAAA=</HashCode>
+      <FileName>Storage\StockLedger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Storage.Warehouse" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Storage\Warehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.TransferReturn.ReturnMaterialRequestNote" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAgAAAQAA=</HashCode>
+      <FileName>TransferReturn\ReturnMaterialRequestNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.TransferReturn.TransferRecord" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAgIAAAAAAAAgAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>TransferReturn\TransferRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Users.Employee" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAEAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Users\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Users.Permission" Collapsed="true">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Users\Permission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Users.Role" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Users\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Users.UserLogin" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAIAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Users\UserLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.ValueObjects.Quantity" Collapsed="true">
+    <Position X="1.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ValueObjects\Quantity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Workflow.ApprovalStatus" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Workflow\ApprovalStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Workflow.ApprovalWorkflow" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Workflow\ApprovalWorkflow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Workflow.Approver" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Workflow\Approver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Domain.Enums.ReceivingStatus" Collapsed="true">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\ReceivingStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Domain.Enums.ServiceRequestStatus" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACAAQAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Enums\ServiceRequestStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
