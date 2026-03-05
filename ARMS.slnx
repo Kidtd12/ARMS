@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="ARMS.API/ARMS.API.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="ARMS.Application/ARMS.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="ARMS.Domain/ARMS.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Persistence/">
+    <Project Path="ARMS.Infrastructure/ARMS.Infrastructure.csproj" />
+  </Folder>
+</Solution>
