@@ -1,8 +1,8 @@
 # ARMS
 
-# Property Management System (PMS)
+# Property Management System (PAS)
 
-## Overview
+#Overview
 
 The **Property Management System (PMS)** is an asset and inventory management application designed to manage organizational properties, track stock, control storage locations, and handle store requisition workflows. The system provides structured processes for receiving items, inspecting them, storing them, and issuing them to staff through controlled approval workflows.
 
