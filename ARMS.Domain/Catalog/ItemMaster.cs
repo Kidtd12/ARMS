@@ -3,6 +3,8 @@ using Domain.Common;
 
 namespace Domain.Catalog
 {
+    public class ItemMaster : BaseEntity
+
     {
         public string SKU { get; private set; }
 
