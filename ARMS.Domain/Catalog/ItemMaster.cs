@@ -1,7 +1,6 @@
 ﻿using System;
 using Domain.Common;
 
-namespace Domain.Catalog
 {
     public class ItemMaster : BaseEntity
 
